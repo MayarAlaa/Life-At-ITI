@@ -4,6 +4,14 @@ So, الحمد لله,I quitted my job because I got accepted at ITI. I'm so exc
 I'll be studying web development and business intelligence from October 2019 to the end of June 2020 inshaAllah. 
 
 
+# Week 2 : Hello World! wait.....WHAT??
+Last week, we finished the database fundamentals course. I'm really grateful الحمد لله that I've joined ITI. I realised that there are some "fundamentals" that I wouldn't be able to learn on my own, not when I'm starting my career anyway. I might gain the knowledge ,yes but from years of experience not because I decided to sit down and study for instance "windows authentication" vs "sql server authentication".
+
+We started another course: Intro to programming using C and yes I printed "Hello World!" .The instructor is amazing. I'm now learning what's happening behind the scenes.
+
+I only have one problem which I hope I solve : *SHYNESS* .I'm too shy to raise my hand and ask questions. I know I'm missing a lot. 
+
+
 # Week 1 : A WHOLE NEW WOOOORLD
  We started our adventure by a course in database fundamentals.
  
