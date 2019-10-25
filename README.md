@@ -4,6 +4,18 @@ So, الحمد لله,I quitted my job because I got accepted at ITI. I'm so exc
 I'll be studying web development and business intelligence from October 2019 to the end of June 2020 inshaAllah. 
 
 
+# Week 3 : 
+Last week, we finished **intro to programming using c** course. I think it is my first time to truly understand what pointers are and apply on the concept. I learned so much from this course. 
+
+We've also finished a 3-day course in software engineering. I studied software engineering at college three years ago but I didn't enjoy it back then that much. The thing I liked most about the course is that the instructor while explaining software engineering concepts, he was mentioning realistic examples, like funny/bad situations we meet everyday at work or he had personally met. And since I've worked as software developer for a year before joining ITI, I felt I could relate so much. Everything seemed to be clearer. I'm now working on building the **puzzle**.
+
+Three **fantastic** things happened last week:
+1) I raised my hand in the class of software engineering to answer questions and share my opinion.
+2) We did a presentation on a topic that I've never heard of before and we had so little time to prepare.
+3) It rained heavily but I'm not going to mention the details of that strange day XD XD.
+
+
+
 # Week 2 : Hello World! wait.....WHAT??
 Last week, we finished the database fundamentals course. I'm really grateful الحمد لله that I've joined ITI. I realised that there are some "fundamentals" that I wouldn't be able to learn on my own, not when I'm starting my career anyway. I might gain the knowledge ,yes but from years of experience not because I decided to sit down and study for instance "windows authentication" vs "sql server authentication".
 
