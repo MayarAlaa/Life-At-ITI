@@ -5,7 +5,7 @@ I'll be studying web development and business intelligence from October 2019 to 
 
 
 # Week 3 : 
-Last week, we finished **intro to programming using c** course. I think it is my first time to truly understand what pointers are and apply on the concept. I learned so much from this course. 
+Last week, we finished **intro to programming using C** course. I think it is my first time to truly understand what pointers are and apply on the concept. I learned so much from this course. 
 
 We've also finished a 3-day course in software engineering. I studied software engineering at college three years ago but I didn't enjoy it back then that much. The thing I liked most about the course is that the instructor while explaining software engineering concepts, he was mentioning realistic examples, like funny/bad situations we meet everyday at work or he had personally met. And since I've worked as software developer for a year before joining ITI, I felt I could relate so much. Everything seemed to be clearer. I'm now working on building the **puzzle**.
 
