@@ -4,6 +4,18 @@ So, الحمد لله,I quitted my job because I got accepted at ITI. I'm so exc
 I'll be studying web development and business intelligence from October 2019 to the end of June 2020 inshaAllah. 
 
 
+
+# Week 4 : 8 months left !!
+Last week we had our first English session . It was good . The instructor divided us into teams of 2 , each team gave a presentation about a topic and she gave us little time to prepare which was challenging and exciting.
+
+In addition to that , we took a 4-day course about communication skills . It was terrific !
+The instructor literally pushed me out of my comfort zone . I raised my hand, answered questions, shared my opinion many times. We did lots of presentations without having much time to prepare. The course itself was very very informative. I loved it so much and I loved the instructor. I hope she gives us other courses in the upcoming 8 months .
+
+One of the most amazing things we did in that course is the debates. In my daily life, I usually avoid debates even the trivial ones. During my debate, I felt uncomfortable.It was really frightening seeing the opposite team taking notes while I'm speaking to reply to what I had said. But I feel proud that I did something totally against of who I am. I hope to repeat the debates experience again.
+
+On the last day of the week, we had a funday to meet people from other tracks . It was a wonderful day, we played, ate, sang and LAUGHED A LOT.
+
+
 # Week 3 : 
 Last week, we finished **intro to programming using C** course. I think it is my first time to truly understand what pointers are and apply on the concept. I learned so much from this course. 
 
