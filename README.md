@@ -5,7 +5,9 @@ I'll be studying web development and business intelligence from October 2019 to 
 
 
 # Week 5 : 
-Last week, we started a course in client-side technologies. We studied HTML and CSS. I preferred writing C way more than writing HTML and CSS. I know they're easier but they seemed overwhelming to me at the beginning and I was too slow in doing the assignments. I need practice, I know that. We started another course in object oriented programming with C++ and I felt I'm back in my comfort zone again.
+Last week, we started a course in client-side technologies. We studied HTML and CSS. I preferred writing C way more than writing HTML and CSS. I know they're easier but they seemed overwhelming to me at the beginning and I was too slow in doing the assignments. I need practice, I know that. That's why I decided to re-visit *The Web Developer Bootcamp course* to study HTML and CSS and do the assignments because after I had bought the course, I never had the time to do it and it's a great opportunity to do it now.
+
+We started another course in object oriented programming with C++ and I felt I'm back in my comfort zone again.
 
 I wonder ,will I be able to feel comfortable,  raise my hand and ask questions..etc. with strangers like I do now with my colleagues or it's just because I got used to them??
 
