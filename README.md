@@ -4,6 +4,11 @@ So, الحمد لله,I quitted my job because I got accepted at ITI. I'm so exc
 I'll be studying web development and business intelligence from October 2019 to the end of June 2020 inshaAllah. 
 
 
+# Week 5 : 
+Last week, we started a course in client-side technologies. We studied HTML and CSS. I preferred writing C way more than writing HTML and CSS. I know they're easier but they seemed overwhelming to me at the beginning and I was too slow in doing the assignments. I need practice, I know that. We started another course in object oriented programming with C++ and I felt I'm back in my comfort zone again.
+
+I wonder ,will I be able to feel comfortable,  raise my hand and ask questions..etc. with strangers like I do now with my colleagues or it's just because I got used to them??
+
 
 # Week 4 : 8 months left !!
 Last week we had our first English session . It was good . The instructor divided us into teams of 2 , each team gave a presentation about a topic and she gave us little time to prepare which was challenging and exciting.
