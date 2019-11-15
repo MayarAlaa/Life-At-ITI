@@ -1,11 +1,11 @@
 # Life-At-ITI
 
-So, الحمد لله,I quitted my job because I got accepted at ITI. I'm so excited .This is a new chapter in my life. A new adventure I've chosen. Not an easy one though.
-I'll be studying web development and business intelligence from October 2019 to the end of June 2020 inshaAllah. 
+**So, الحمد لله,I quitted my job because I got accepted at ITI. I'm so excited .This is a new chapter in my life. A new adventure I've chosen. Not an easy one though.
+I'll be studying web development and business intelligence from October 2019 to the end of June 2020 inshaAllah.** 
 
 
 
-# Week 6:*Sigh of despair*
+# Week 6 : *Sigh of despair*
 I still panic anytime I'm asked to present something in front of my teammates. At the end of the week, I'm supposed to do a 15-minute presentation on any topic I choose. I haven't chosen the topic yet.
 
 I had a exam in C. I didn't do well. I wasn't sure of most of my answers. But the exam made me realize that I need to change my way of studying a little bit. I should understand the reason of the compilation errors I meet ,give more and nore attention to every line of code I write down in the assignments. This would need much more time which I don't have.
