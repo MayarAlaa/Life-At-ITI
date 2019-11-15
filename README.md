@@ -4,6 +4,13 @@ So, الحمد لله,I quitted my job because I got accepted at ITI. I'm so exc
 I'll be studying web development and business intelligence from October 2019 to the end of June 2020 inshaAllah. 
 
 
+
+# Week 6:*Sigh of despair*
+I still panic anytime I'm asked to present something in front of my teammates. At the end of the week, I'm supposed to do a 15-minute presentation on any topic I choose. I haven't chosen the topic yet.
+
+I had a exam in C. I didn't do well. I wasn't sure of most of my answers. But the exam made me realize that I need to change my way of studying a little bit. I should understand the reason of the compilation errors I meet ,give more and nore attention to every line of code I write down in the assignments. This would need much more time which I don't have.I promise myself to do myself.
+
+
 # Week 5 : 
 Last week, we started a course in client-side technologies. We studied HTML and CSS. I preferred writing C way more than writing HTML and CSS. I know they're easier but they seemed overwhelming to me at the beginning and I was too slow in doing the assignments. I need practice, I know that. That's why I decided to re-visit *The Web Developer Bootcamp course* to study HTML and CSS and do the assignments because after I had bought the course, I never had the time to do it and it's a great opportunity to do it now.
 
