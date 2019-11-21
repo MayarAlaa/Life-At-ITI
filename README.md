@@ -9,7 +9,7 @@ We've finished the OOP with C++ course. And I totally related to Aristotle's say
 
 Another thing I realised that I don't want to stay in the same workplace for a decade. Changing workplaces, changing teammates mean *diversity* for me. Diversity in forming my ideas and experiences.
 
-Last thing, in 2016 I heard about the imposter syndrome for the first time in Goto Berlin conference. I have that syndrome but back then I didn't know that's a syndrome.Today, I gave a presentation about imposter syndrome. My mates at ITI also have this syndrome but didn't know its name as well or that it is something common among us. I hope I transferred useful knowledge to them.
+Last thing, in 2016 I heard about the imposter syndrome for the first time in Goto Berlin conference. I have that syndrome but back then I didn't realise it or know that it existed.Today, I gave a presentation about imposter syndrome. Many of my mates at ITI also have this syndrome but didn't know its name as well or that it is something common among us. I hope I transferred useful knowledge to them.
 
 
 # Week 6 : *Sigh of despair*
