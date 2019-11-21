@@ -1,8 +1,15 @@
 # Life-At-ITI
 
-**So, الحمد لله,I quitted my job because I got accepted at ITI. I'm so excited .This is a new chapter in my life. A new adventure I've chosen. Not an easy one though.
+**So, I quitted my job because I got accepted at ITI الحمد لله. I'm so excited .This is a new chapter in my life. A new adventure I've chosen. Not an easy one though.
 I'll be studying web development and business intelligence from October 2019 to the end of June 2020 inshaAllah.** 
 
+
+# Week 7 :
+We've finished the OOP with C++ course. And I totally related to Aristotle's saying: "The more you know, the more you know that you don't know". I started to be convinced that online courses are never enough. A good start, definitely yes but your knowledge will be  limited by their authors knowlegde. Maybe at work, you'll be using what you've learnt in the online course only and learn more by facing problems, but still I think there will be always something missing. Reading books is a "longer path" ,maybe a bit boring but will make me a strong developer I guess..That's one thing I realised this week.
+
+Another thing I realised that I don't want to stay in the same workplace for a decade. Changing workplaces, changing teammates mean *diversity* for me. Diversity in forming my ideas and experiences.
+
+Last thing, in 2016 I heard about the imposter syndrome for the first time in Goto Berlin conference. I have that syndrome but back then I didn't know that's a syndrome.Today, I gave a presentation about imposter syndrome. My mates at ITI also have this syndrome but didn't know its name as well or that it is something common among us. I hope I transferred useful knowledge to them.
 
 
 # Week 6 : *Sigh of despair*
