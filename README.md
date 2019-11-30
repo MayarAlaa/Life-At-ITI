@@ -8,6 +8,7 @@ I'll be studying web development and business intelligence from October 2019 to 
 It was a very tiring week. I was really exhausted.
 I want to be good at JavaScript.
 I'm not satisfied with my level in it.
+We started the advanced SQL course.
 
 # Week 7 :
 We've finished the OOP with C++ course. And I totally related to Aristotle's saying: "The more you know, the more you know that you don't know". I started to be convinced that online courses are never enough. A good start, definitely yes but your knowledge will be  limited by their authors knowlegde. Maybe at work, you'll be using what you've learnt in the online course only and learn more by facing problems, but still I think there will be always something missing. Reading books is a "longer path" ,maybe a bit boring but will make me a strong developer I guess..That's one thing I realised this week.
