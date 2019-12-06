@@ -4,6 +4,11 @@
 I'll be studying web development and business intelligence from October 2019 to the end of June 2020 inshaAllah.** 
 
 
+# Week 9 : Our first project 
+We're done with the advanced SQL course and we're assigned our first project to be delivered in two weeks. I'm excited and afraid. 
+We had an exam in OOP .I think I did better in this exam  compared to the C exam. 
+I'm still not good at JS. One important thing I learned is that I should read the lecture on the same day after going home, otherwise the info will evaporate.
+
 # Week 8 :
 It was a very tiring week. I was really exhausted.
 I want to be good at JavaScript.
