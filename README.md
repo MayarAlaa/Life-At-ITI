@@ -4,6 +4,10 @@
 I'll be studying web development and business intelligence from October 2019 to the end of June 2020 inshaAllah.** 
 
 
+# Week 10 :
+I feel exhausted. I need to re-energize myself. I was able to hide the panic I felt at every team meeting for the projects we're assigned. I know I need pretty long time to build my self-confidence again. I feel happy when I suggest something about the project, I mean I don't remain silent because this time it's supposed to be different from college time. I study, I work hard. I'm trying to do my best. These days I'm tired and I want to save everything around me before falling apart.
+We're done with the advanced JavaScript course and we started a 3-day XML course.
+
 # Week 9 : Our first project 
 We're done with the advanced SQL course and we're assigned our first project to be delivered in two weeks. I'm excited and afraid. 
 We had an exam in OOP .I think I did better in this exam  compared to the C exam. 
