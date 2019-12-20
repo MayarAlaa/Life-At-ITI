@@ -4,6 +4,13 @@
 I'll be studying web development and business intelligence from October 2019 to the end of June 2020 inshaAllah.** 
 
 
+
+# Week 11 :
+I wonder how many questions I'll post on stack overflow and have them closed before I finally can post my own answers and have a good reputation. Yesterday, I posted a question and had it closed. I felt disappointed. I made a mistake because I wrote html5 instead of HTML5 .I think my question needed more clarification but when I wrote it I thought it didn't. But rejection is an important step to achieve success ,right? Here's the link to the question to always remember that : https://stackoverflow.com/questions/59415478/convert-a-div-element-with-images-into-one-image-and-download-it-without-using-h
+
+This week we took 5 days off. I needed to rest badly <3 .I had to work on the XML assignment , advanced database project and the JavaScript project. I didn't exactly took a rest but I went to the cinema with my friend and slept **A LOT**.
+
+
 # Week 10 :
 I feel exhausted. I need to re-energize myself. I was able to hide the panic I felt at every team meeting for the projects we're assigned. I know I need pretty long time to build my self-confidence again. I feel happy when I suggest something about the project, I mean I don't remain silent because this time it's supposed to be different from college time. I study, I work hard. I'm trying to do my best. These days I'm tired and I want to save everything around me before falling apart.
 We're done with the advanced JavaScript course and JQuery course and we started a 3-day XML course.
