@@ -4,6 +4,14 @@
 I'll be studying web development and business intelligence from October 2019 to the end of June 2020 inshaAllah.** 
 
 
+# Week 12 : Thank you, 2019!
+
+Time flies. Three months have passed. Six months are left. I'm totally whole-heartedly grateful for joining ITI. I'm grateful for 2019. 
+We're done with the database project and the JavaScript project. The instructor loved the JS project and asked us to add some more features and deploy it. 
+I need to re-visit topics that I've already studied. I need to do spaced-repetition. I need to remind myself each now and then that I don't have to go with the flow. It's okay to understand topics slower than the others. I just don't have to stop learning.
+I'll start by this week. I'll put a plan for it right now.
+As for the courses, we're done with the data structures course. We've started HTML5 and CSS3 course.
+
 
 # Week 11 :
 I wonder how many questions I'll post on stack overflow and have them closed before I finally can post my own answers and have a good reputation. Yesterday, I posted a question and had it closed. I felt disappointed. I made a mistake because I wrote html5 instead of HTML5 .I think my question needed more clarification but when I wrote it I thought it didn't. But rejection is an important step to achieve success ,right? Here's the link to the question to always remember that : https://stackoverflow.com/questions/59415478/convert-a-div-element-with-images-into-one-image-and-download-it-without-using-h
