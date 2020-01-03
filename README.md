@@ -4,6 +4,12 @@
 I'll be studying web development and business intelligence from October 2019 to the end of June 2020 inshaAllah.** 
 
 
+# Week 13 : Hello, 2020!
+
+It was a hard week. One of my main goals for 2020, especially the first 6 months is to do everything on time and try not to procrastinate as best as I can. I didn't finish everything I wanted to do last week, but at least I have an overview about what needs to be done. I don't want time to slip away. 
+C# is amazing and our instructor is super amazing <3.
+
+
 # Week 12 : Thank you, 2019!
 
 Time flies. Three months have passed. Six months are left. I'm totally whole-heartedly grateful for joining ITI. I'm grateful for 2019. 
