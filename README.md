@@ -11,6 +11,8 @@ We're almost done with the C# course. It was amazing. I loved it.
 
 I learned about:
 <ul>
+ <li>Properties</li>
+ <li>Indexers</li>
  <li>Delegates</li>
 </ul>
 
