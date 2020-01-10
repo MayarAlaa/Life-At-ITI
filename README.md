@@ -4,6 +4,21 @@
 I'll be studying web development and business intelligence from October 2019 to the end of June 2020 inshaAllah.** 
 
 
+
+# Week 14 : 
+
+We're almost done with the C# course. It was amazing. I loved it. 
+
+Everyday, I realize that everything around us needs effort. Effort isn't a relaxing word to hear but it's just the truth. To be a "real" programmer you need effort. 
+
+Last week was really good on the technical side but it was terrible on the personal side.
+
+For 2020 I want to achieve 3 things : do everything on time, do it as best as I can and always remind myself that I don't have to go with the flow.
+
+I feel I'm failing at achieving any of these. I feel disapointed. 
+
+
+
 # Week 13 : Hello, 2020!
 
 It was a hard week. One of my main goals for 2020, especially the first 6 months is to do everything on time and try not to procrastinate as best as I can. I didn't finish everything I wanted to do last week, but at least I have an overview about what needs to be done. I don't want time to slip away. 
