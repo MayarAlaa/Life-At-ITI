@@ -9,6 +9,11 @@ I'll be studying web development and business intelligence from October 2019 to 
 
 We're almost done with the C# course. It was amazing. I loved it. 
 
+I learned about:
+<ul>
+ <li>Delegates</li>
+</ul>
+
 Everyday, I realize that everything around us needs effort. Effort isn't a relaxing word to hear but it's just the truth. To be a "real" programmer you need effort. 
 
 Last week was really good on the technical side but it was terrible on the personal side.
