@@ -5,6 +5,14 @@ I'll be studying web development and business intelligence from October 2019 to 
 
 
 
+
+# Week 15 :
+
+I knew last week that I'm supposed to start applying for jobs in April, I kind of panicked on hearing this. 
+
+We took 3 mini courses: Agile, professionalism in work and UML. They were good but I'm so tired to enjoy them. Do my words make any sense? 
+
+
 # Week 14 : 
 
 We're almost done with the C# course. It was amazing. I loved it. 
