@@ -4,7 +4,13 @@
 I'll be studying web development and business intelligence from October 2019 to the end of June 2020 inshaAllah.** 
 
 
+# Week 16 :
 
+Can I be honest and talk a little bit about an "unsuccessful" month? January wasn't my month. I lost a great portion of my energy and that highly affected my progress in ITI. I have a lot of things that should be finished. My backlog is stuffed with unchecked items. I've missed the C# assignments deadline. I was really ill last week.
+We've finished HTML5 and CSS3 course and another one in responsive website and bootstrap. 
+We did a good presentation for the UML course. It was about the component diagram.
+We also took a course about NoSQL and learned about MongoDB.
+I knew it is an exhausting journey. I'm sure that every sleepless night, everytime I cry when I fail, everytime I feel I'm not good enough will pay off in the end. I'm here reminding myself that success is not a piece of cake. It's ok to be slow...
 
 # Week 15 :
 
