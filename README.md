@@ -4,6 +4,12 @@
 I'll be studying web development and business intelligence from October 2019 to the end of June 2020 inshaAllah.** 
 
 
+# Week 17 :
+
+Last week, we took a 3-day course in ES6 and another one in IIS. Another good stable week,thank God. I've finished all the lab assignments on time.
+I edited my CV, removing and adding things to be ready to apply for jobs. 
+
+
 # Week 16 :
 
 Can I be honest and talk a little bit about an "unsuccessful" month? January wasn't my month. I lost a great portion of my energy and that highly affected my progress in ITI. I have a lot of things that should be finished. My backlog is stuffed with unchecked items. I've missed the C# assignments deadline. I was really ill last week.
