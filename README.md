@@ -4,6 +4,11 @@
 I'll be studying web development and business intelligence from October 2019 to the end of June 2020 inshaAllah.** 
 
 
+# Week 18 :
+
+We took a course in WPF and a course in interviewing skills. It was a short week. 
+
+
 # Week 17 :
 
 Last week, we took a 3-day course in ES6 and another one in IIS. Another good stable week,thank God. I've finished all the lab assignments on time.
