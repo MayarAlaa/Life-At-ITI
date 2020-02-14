@@ -4,6 +4,13 @@
 I'll be studying web development and business intelligence from October 2019 to the end of June 2020 inshaAllah.** 
 
 
+# Week 19 : A good week finally!
+
+We took a course in SQL Admin and another one in Business Intelligence. Both were very good. I liked them.
+I've finished all their tasks on time.
+We did interviews for each other. We acted both roles interviewers and interviewees. It was cool.
+
+
 # Week 18 :
 
 We took a course in WPF and a course in interviewing skills. It was a short week. 
