@@ -4,6 +4,12 @@
 I'll be studying web development and business intelligence from October 2019 to the end of June 2020 inshaAllah.** 
 
 
+# Week 20 :
+
+We took 3 courses : Calulus and Statistics (3-day course), Data Mining (2-day course) and Power BI (2-day course). It was an interesting week. I was impressed by the capabilities of the Power BI tool.
+I'm still not sure whether I want to work as a BI developer or a full stack developer.
+
+
 # Week 19 : A good week finally!
 
 We took a course in SQL Admin and another one in Business Intelligence. Both were very good. I liked them.
