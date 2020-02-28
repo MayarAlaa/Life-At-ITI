@@ -7,7 +7,9 @@ I'll be studying web development and business intelligence from October 2019 to 
 # Week 21 :
 
 Is it OK to doubt your skills from time to time?
-We took LINQ, WinForms and Node.JS 
+
+We took LINQ, WinForms and Node.JS.
+
 February was better than January in terms of time management. Thank God! 
 
 # Week 20 :
