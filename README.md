@@ -4,6 +4,14 @@
 I'll be studying web development and business intelligence from October 2019 to the end of June 2020 inshaAllah.** 
 
 
+
+# Week 22 :
+
+I was going to start by saying that It's getting worse, then I remembered that I gave a very good presentation about the local chocolate Corona yesterday and the feedback from both of the instructors was great.
+
+We took ADO and Entity framework. 
+
+
 # Week 21 :
 
 Is it OK to doubt your skills from time to time?
