@@ -9,7 +9,7 @@ I'll be studying web development and business intelligence from October 2019 to 
 
 I was going to start by saying that It's getting worse, then I remembered that I gave a very good presentation about the local chocolate Corona yesterday and the feedback from both of the instructors was great.
 
-We took ADO and Entity framework. 
+We took Node.JS, ADO and Entity framework. 
 
 
 # Week 21 :
