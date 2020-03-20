@@ -5,6 +5,13 @@ I'll be studying web development and business intelligence from October 2019 to 
 
 
 
+# Week 24 : The Quarantine!!
+
+I wished for one week off to get some rest, my wish came true and we're all staying at home because of Corona Virus that's eating up the whole world. I really miss my friends at ITI.
+I revised OOP. I want to revise the advanced sql course (I revised only one lecture). I'm solving sql problems on HackerRank,too.
+On Sunday, we'll start our online lectures. I'm so proud of how our instructors at ITI managed to cope with this crisis. I wish to go back to ITI. 
+
+
 # Week 23 :
 
 It was a short week. We took 3 days off due to bad weather conditions. We started MVC course. I'm really enjoying it. The instructor is amazing though she's so young. 
