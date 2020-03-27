@@ -5,6 +5,13 @@ I'll be studying web development and business intelligence from October 2019 to 
 
 
 
+# Week 25 : Staying at home
+
+Last Sunday, we started our online lectures on Zoom. It's not that bad. Actually, it's not bad at all. I feel comfortable. No time wasted. The worst thing, is that I miss my friends at ITI. I miss them badly. I love ITI. I love the way that everyone at ITI acted so quickly and efficiently for our own good. I respect them so much. This place is successful, because everyone there does their work by all their heart and soul. God bless them! 
+
+We've finished the MVC course. It was interesting. I loved it. And as usual, the instructor was amazing. Thank you Engineer Wessam. You're a role model. 
+
+
 # Week 24 : The Quarantine!!
 
 I wished for one week off to get some rest, my wish came true and we're all staying at home because of Corona Virus that's eating up the whole world. I really miss my friends at ITI.
