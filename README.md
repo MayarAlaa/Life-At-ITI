@@ -4,6 +4,14 @@
 I'll be studying web development and business intelligence from October 2019 to the end of June 2020 inshaAllah.** 
 
 
+# Week 26 & 27 :
+
+I forgot last week to update my journal.
+We took 3 crash courses: R, Python and Machine Learning. I enjoyed myself alot especially when we were assigned to build a model for the titanic dataset. The instructor was really good, although he was external (not employed at ITI).
+Last week, we finished the last day in the wpf course. We also took a course in Unit Testing and Signal R. They were also really interesting. I was really eager to learn Unit Testing.
+Besides all of that, I'm working on our MVC course final project. It's a mini facebook. I started by building the models (code first from scratch) and I was really happy because I've learned a lot, for example, mapping manay-to-many relationships, especially self join relationships. I hope ,together with my team, to make a good output.
+That's it for now.
+
 
 # Week 25 : Staying at home
 
