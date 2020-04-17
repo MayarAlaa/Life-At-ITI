@@ -4,6 +4,11 @@
 I'll be studying web development and business intelligence from October 2019 to the end of June 2020 inshaAllah.** 
 
 
+# Week 28 :
+
+Last week, we took a 2-day introduction to Microsoft Azure course, the rest of the week was dedicated to The English course.
+I'm almost done with the tasks assigned to me in the MVC project.
+
 # Week 26 & 27 :
 
 I forgot last week to update my journal.
