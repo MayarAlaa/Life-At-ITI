@@ -4,6 +4,13 @@
 I'll be studying web development and business intelligence from October 2019 to the end of June 2020 inshaAllah.** 
 
 
+# Week 29 : Ramadan
+
+Today is the first day of Ramadan and we still have about three weeks to finish our courses at ITI.
+We started a course in Angular. I'm enjoying it up till now.
+I know my energy has dropped. I'm a bit worried because of the interviews. I want to study more and more and prepare myself for the interviews. May Allah grant me with strength and patience.
+
+
 # Week 28 :
 
 Last week, we took a 2-day introduction to Microsoft Azure course, the rest of the week was dedicated to The English course.
