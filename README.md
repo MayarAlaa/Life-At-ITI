@@ -7,7 +7,7 @@ I'll be studying web development and business intelligence from October 2019 to 
 # Week 30 & 31 : Three Weeks Left!
 
 The first week of Ramadan was very tiring as I slept very late and woke up early for the lecctures. The second week was better. I started to adapt to my new schedule.
-We took a quick course about some of the design patterns. I implemented an example using Strategy, Builder, Observable and Decorator design patterns. In the past, when I heard about Design Patterns for the first time, I felt nooo, it's something for programmers with big experience. Now I feel a bit more confident to approach them. They aren't that hard. I just need to clearly understand them + implememting them.
+We took a quick course about some of the design patterns. I implemented an example using Strategy, Builder, Observable and Decorator design patterns. In the past, when I heard about Design Patterns for the first time, I felt nooo, it's something for programmers with big experience. Now I feel a bit more confident to approach them. They aren't that hard. I just need to clearly understand them + practise implememting them.
 We took another course in WCF and Web APIs and we finished the Angular Course.
 We'll start a 2-week training in Predictive Analytics Modeler with IBM.
 
