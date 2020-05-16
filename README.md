@@ -4,6 +4,17 @@
 I'll be studying web development and business intelligence from October 2019 to the end of June 2020 inshaAllah.** 
 
 
+# Week 32 :
+
+I'm trying to energize myself. Very little time left. 
+<div>
+Dear me, 
+ 
+ I know you're tired and afraid of the upcoming days. It's the time to gain the fruit of all the work we've done at the ITI so far. One more push-up please.
+ 
+ Cheers,
+ Mayar
+ </div>
 # Week 30 & 31 : Three Weeks Left!
 
 The first week of Ramadan was very tiring as I slept very late and woke up early for the lecctures. The second week was better. I started to adapt to my new schedule.
