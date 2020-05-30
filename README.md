@@ -4,6 +4,11 @@
 I'll be studying web development and business intelligence from October 2019 to the end of June 2020 inshaAllah.** 
 
 
+# Week 34 :
+
+I was supposed to study on the Eid vacation, but I was really exhausted.
+I've got tons of things to study. I'm worried. I hope everything goes well.
+ 
 # Week 33 :
 
 We've finished IBM training. It was about Predictive Analytics Modeler. We'll be having an exam for the certificate after the Eid inshallah. I'm not sure if the training will directly benefit me or not. I loved the dedication of the instructors. The content itself was somehow not very difficult. I know I'm just tired.
