@@ -4,6 +4,17 @@
 I'll be studying web development and business intelligence from October 2019 to the end of June 2020 inshaAllah.** 
 
 
+# Week 35 : Wohoooooooooo
+
+We've finally finished our lectures at ITI. I'm extremely happy by this journey.
+All of the things that I've learned and all of the nice people I met and with whom I became friends.
+The last 2 courses we took were azure and dot net core.
+I think it would be harder if we witnessed this moment of farewell together.
+But here we are quarantined at home.
+The upcoming days are a bit frustrating for me because I'm studying for the Interviews and I'm terribly tired.
+Please Allah help me.
+
+
 # Week 34 :
 
 I was supposed to study on the Eid vacation, but I was really exhausted.
