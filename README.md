@@ -4,6 +4,12 @@
 I'll be studying web development and business intelligence from October 2019 to the end of June 2020 inshaAllah.** 
 
 
+# Week 36 :
+
+Last week,I was preparing for the interviews. I succeeded in the exam of IBM 
+Of Predictive Analytics Modeler الحمدلله. 
+This week I'll continue studying for the interviews and I'll start a specialization in Coursera about Datawarehousing.
+
 # Week 35 : Wohoooooooooo
 
 We've finally finished our lectures at ITI. I'm extremely happy by this journey.
