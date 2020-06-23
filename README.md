@@ -4,6 +4,10 @@
 I'll be studying web development and business intelligence from October 2019 to the end of June 2020 inshaAllah.** 
 
 
+# Week 37 :
+
+Last week, I started Data Warehousing for Business Intelligence specialization on Coursera. I started with Data Warehouse Concepts, Design, and Data Integration course. It was a mix of refreshment for what I've already learned at ITI and huge amount of new information. I enjoyed working on the assignments though they were a bit challenging for me. I really liked the assignment that was about designing the Data Warehouse schema. In addition to that, I learned working with Pentaho Data Integration Tool.
+
 # Week 36 :
 
 Last week,I was preparing for the interviews. I succeeded in the exam of IBM 
