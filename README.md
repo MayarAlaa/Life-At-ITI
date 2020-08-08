@@ -3,6 +3,19 @@
 **So, I quitted my job because I got accepted at ITI الحمد لله. I'm so excited .This is a new chapter in my life. A new adventure I've chosen. Not an easy one though.
 I'll be studying web development and business intelligence from October 2019 to the end of June 2020 inshaAllah.** 
 
+# Week 38 & 39 : The End
+
+It was an incredible journey. I've learned alot and made new best friends.
+I'm so happy because Allah gave me such a great opportunity. I decided to focus on Business Intelligence
+field and I got a job offer as a BI tester at CIB الحمدلله.
+I'm really lost at words. I should have updated the journal a month ago, but I was 
+really exhausted and wanted to take a break from everything.
+بعد توفيق ربنا, hard work really pays off. Learning new things is wonderful. Helping others and 
+sharing knowledge is amazing. 
+I'm glad I kept this journal. I saved moments of excitement, sorrow and desperation. There were lots of ups and downs.
+
+Farewell ITI 👋👋 and off to a new journey.
+
 
 # Week 37 :
 
